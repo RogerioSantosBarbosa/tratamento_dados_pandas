@@ -16,9 +16,9 @@ Python 3 · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
 ## Como executar
 
-\`\`\`bash
-git clone https://github.com/RogerioSantosBarbosa/analise-dados-vendas-pandas.git
-pip install -r requirements.txt
-\`\`\`
+  ```bash
+  git clone https://github.com/RogerioSantosBarbosa/analise-dados-vendas-pandas.git
+  pip install -r requirements.txt
+```
 
 Abra `tratamento_dados_pandas.ipynb` no Jupyter Lab ou VS Code e execute as células.
